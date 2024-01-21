@@ -1,10 +1,10 @@
 # ComfyUI Workflow for merging faces
 
-Demo video @ [https://github.com/rnbwdsh/comfyui-face-merge](youtube).
+Demo video @ [Youtube](https://youtu.be/5XiuXD9c-Hw).
 
 ## Setup instructions
 
-First, read [https://github.com/cubiq/ComfyUI_IPAdapter_plus](the IP Adapter Plus doc), as well as basic comfyui doc.
+First, read [the IP Adapter Plus doc](https://github.com/cubiq/ComfyUI_IPAdapter_plus), as well as basic comfyui doc.
 
 Then use comfyui manager, to install all the missing models and nodes, i.e. the Clip VIT H from ipadapter, the sdxl vit h ipadapter model, the big sdxl models, efficient nodes...
 
